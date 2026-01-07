@@ -31,23 +31,27 @@
 
 ---
 
-## ▶️ Как запустить
-
-1. Убедитесь, что у вас установлен Python (проверить можно командой `python --version` или `python3 --version`).
-2. Скачайте файл [`freebet_arbitrage.py`](freebet_arbitrage.py) из этого репозитория.
-3. Откройте терминал (командную строку) в папке с файлом.
-4. Запустите программу командой:
-   ```bash
-   python freebet_arbitrage.py
-````markdown
 ## 🚀 Установка и запуск
+
+### 1️⃣ Откройте терминал
+
+- **Windows** — `Win + R` → `cmd`
+- **macOS** — `Terminal` (через Spotlight)
+- **Linux** — `Ctrl + Alt + T`
+
+---
+
+### 2️⃣ Проверьте наличие Python и Git
+
+```bash
+git --version
+python --version   # или python3 --version
 
 Если у вас не установлены необходимые инструменты:
 
 - **Git** → https://git-scm.com/
 - **Python** → https://www.python.org/downloads/
-
----
+```
 
 ### 3️⃣ Склонируйте репозиторий
 
@@ -167,7 +171,3 @@ freebet-arbitrage/
 
 🍀 **Удачи и ответственного подхода к ставкам!**
 Помните: сохранность банка важнее любой стратегии.
-
-```
-```
-
