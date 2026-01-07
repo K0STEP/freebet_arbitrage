@@ -46,12 +46,12 @@
 ```bash
 git --version
 python --version   # или python3 --version
+```
 
 Если у вас не установлены необходимые инструменты:
 
 - **Git** → https://git-scm.com/
 - **Python** → https://www.python.org/downloads/
-```
 
 ### 3️⃣ Склонируйте репозиторий
 
