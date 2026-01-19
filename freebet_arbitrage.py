@@ -124,13 +124,13 @@ def main() -> None:
             f"  Введите {BOLD}1{RESET} — рассчитать ещё раз\n"
             "\nВаш выбор: "
         ).strip()
+        match choice:
+            case "1":
+                print(f"\n{CYAN}{'=' * 60}{RESET}")
+                continue
+        print(f"\n{GREEN}Спасибо за использование! Удачи в ставках! 🍀{RESET}")
+        break
 
-        if choice == "1":
-            print(f"\n{CYAN}{'=' * 60}{RESET}")
-            continue
-        else:
-            print(f"\n{GREEN}Спасибо за использование! Удачи в ставках! 🍀{RESET}")
-            break
 
 
 if __name__ == "__main__":
