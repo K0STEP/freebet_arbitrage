@@ -56,11 +56,8 @@ python --version   # или python3 --version
 ### 3️⃣ Склонируйте репозиторий
 
 ```bash
-git clone https://github.com/ВАШ-НИК/freebet-arbitrage.git
+git clone https://github.com/K0STEP/freebet-arbitrage.git
 ````
-
-⚠️ **Замените `ВАШ-НИК` на ваш реальный GitHub-логин**
-
 ---
 
 ### 4️⃣ Перейдите в папку проекта
